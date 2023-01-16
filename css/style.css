@@ -143,7 +143,7 @@
 .notice>ul>li>a>p:hover{
     background: #017ba0;
 }
-.notice>ul>li:hover>a{
+.notice>ul>li:hover>a>p{
     color: #fff;
 }
 .notice>ul>li>a>p{
